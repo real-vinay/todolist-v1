@@ -38,7 +38,7 @@ todolist-v1/
    ```bash
    git clone https://github.com/yourusername/todolist-v1.git
 2.Navigate to the project directory:
-   cd todolist-v1
+  cd todolist-v1
 3.Install the dependencies:
   npm install
 4.start the application:
@@ -63,9 +63,13 @@ Through this project, I learned the following:
 **Debugging and Troubleshooting:** I gained experience in debugging and troubleshooting common issues that arise during web development, such as layout problems and server errors.
 
 **Future Improvements**
+
 Add Database Integration: Integrate a database (e.g., MongoDB) to persist tasks across sessions.
+
 User Authentication: Implement user authentication to allow multiple users to manage their own tasks.
+
 Task Categories: Add the ability to categorize tasks and filter them based on categories.
+
 Due Dates and Reminders: Add functionality to set due dates for tasks and send reminders.
 
 
