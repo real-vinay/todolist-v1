@@ -45,7 +45,7 @@ todolist-v1/
   node app.js
 5.open your browser and go to http://localhost:3000
 
-**What I Learned**
+## What I Learned
 Through this project, I learned the following:
 
 **Setting Up a Node.js Project:** I learned how to initialize a Node.js project, manage dependencies using npm, and create a basic server using Express.
@@ -62,7 +62,7 @@ Through this project, I learned the following:
 
 **Debugging and Troubleshooting:** I gained experience in debugging and troubleshooting common issues that arise during web development, such as layout problems and server errors.
 
-**Future Improvements**
+## Future Improvements
 
 Add Database Integration: Integrate a database (e.g., MongoDB) to persist tasks across sessions.
 
